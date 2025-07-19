@@ -1,7 +1,7 @@
 // src/data/eventData.js
 
 import Event11 from "./assets/Eventsdata/Annualevent/1.jpg";
-import Event12 from "./assets/Eventsdata/Annualevent/2.jpg";
+import Event12 from "./assets/Eventsdata/Annualevent/2.jpeg";
 import Event13 from "./assets/Eventsdata/Annualevent/3.jpg";
 import Event14 from "./assets/Eventsdata/Annualevent/4.jpg";
 import Event15 from "./assets/Eventsdata/Annualevent/5.jpg";
